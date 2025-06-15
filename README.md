@@ -1,1 +1,1 @@
-# Sales-Report-2025-BI
+# Sales Performance Dashboard Power BI - Where I designed a dashboard to analyze and visualize sales trends and profitability for 2025. Key features include Top Performers, Opportunity Mapping, Regional Insights, Payment Mode Analysis - https://app.powerbi.com/view?r=eyJrIjoiZDcyOWE4YzktY2FkYi00NWE1LTgwOGYtYWFiYTc0OTdhN2NmIiwidCI6IjQ4NTJkMGZjLWY4N2EtNDYyYi1hZDA5LTc3M2Y5ODZjY2MwNCIsImMiOjEwfQ%3D%3D&pageName=b5efaf3fb60bc9e9ebd5
